@@ -1,0 +1,22 @@
+.offer-box{
+    margin: 30px 20px;
+    width: 95%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #F9F8E6;
+}
+.offer{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.offer img{
+    margin-right: 10px;
+}
+.offer h3,
+.offer p{
+    color: var(--gray);
+}

@@ -1,0 +1,217 @@
+{
+    "topProducts": [
+        {
+            "id": "0",
+            "title": "NHR Baby Carry Cot Pink",
+            "img": "tovars/baby10.jpg",
+            "price": "200.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "1",
+            "title": "Learn With Me Zebra Walker",
+            "img": "tovars/baby13.jpg",
+            "price": "200.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "2",
+            "title": "Sensory Activity Apple",
+            "img": "tovars/baby35.jpg",
+            "price": "200.00",
+            "notPrice": "275.00",
+            "sale": true,
+            "aksiya": "9%"
+        }, {
+            "id": "3",
+            "title": "Sensory Sweet Peas",
+            "img": "tovars/baby42.jpg",
+            "price": "200.00",
+            "notPrice": "",
+            "sale": true,
+            "aksiya": "5%"
+        }, {
+            "id": "4",
+            "title": "Maclaren Toy Bmw Buggy Stroller, Silver",
+            "img": "tovars/baby20.jpg",
+            "price": "760.00",
+            "notPrice": "890.00",
+            "sale": true,
+            "aksiya": "6%"
+        }, {
+            "id": "5",
+            "title": "Kick & Play Piano",
+            "img": "tovars/baby25.jpg",
+            "price": "890.00",
+            "notPrice": "950.00",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "6",
+            "title": "Sassy Crib And Floor Mirror",
+            "img": "tovars/baby6.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "7",
+            "title": "Scoop 'N Link Bath Boats",
+            "img": "tovars/baby30.jpg",
+            "price": "300.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }
+    ],
+    "featureProducts": [
+        {
+            "id": "0",
+            "title": "Front Tie Raised",
+            "img": "tovars/baby21.jpg",
+            "price": "765.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "1",
+            "title": "Flowy Open Black Shirt",
+            "img": "tovars/baby57.jpg",
+            "price": "900.00",
+            "notPrice": "",
+            "sale": false,
+            "aksiya": ""
+        }, {
+            "id": "2",
+            "title": "GM Sting Kashmir Willow",
+            "img": "tovars/baby23.jpg",
+            "price": "100.00",
+            "notPrice": "115.00",
+            "sale": true,
+            "aksiya": "13%"
+        }, {
+            "id": "3",
+            "title": "Honey Bee Teether",
+            "img": "tovars/baby39.jpg",
+            "price": "300.00",
+            "notPrice": "789.00",
+            "sale": true,
+            "aksiya": "65%"
+        }
+    ],
+    "bestSeller": [
+        {
+            "id": "0",
+            "title": "Clinkle Leaf",
+            "img": "tovars/baby37.jpg",
+            "price": "300.00",
+            "notPrice": "789.00",
+            "sale": true
+        }, {
+            "id": "1",
+            "title": "Cosco Rio Size 3",
+            "img": "tovars/baby16.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false
+        }, {
+            "id": "2",
+            "title": "Classic Fisher Price Gift Set",
+            "img": "tovars/baby23.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false
+        }
+    ],
+    "newArrivals": [
+        {
+            "id": "0",
+            "title": "Lee Cooper Baby Sneakers",
+            "img": "tovars/baby24.jpg",
+            "price": "300.00",
+            "notPrice": "789.00",
+            "sale": true
+        }, {
+            "id": "1",
+            "title": "Link' N Go Play Pack",
+            "img": "tovars/baby36.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false
+        }, {
+            "id": "2",
+            "title": "Learn With Me Zebra Walker",
+            "img": "tovars/baby13.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false
+        }
+    ],
+    "productsFeature": [
+        {
+            "id": "0",
+            "title": "Lee Cooper Baby Sneakers",
+            "img": "tovars/baby19.jpg",
+            "price": "300.00",
+            "notPrice": "",
+            "sale": false
+        }, {
+            "id": "1",
+            "title": "Flip & Surprice Caterpillar",
+            "img": "tovars/baby43.jpg",
+            "price": "100.00",
+            "notPrice": "",
+            "sale": false
+        }, {
+            "id": "2",
+            "title": "Front Tie Raised",
+            "img": "tovars/baby21.jpg",
+            "price": "765.00",
+            "notPrice": "",
+            "sale": false
+        }
+    ],
+    "sideProducts":[
+        {
+            "id": "0",
+            "title": "Comdaq Doll Stroller",
+            "img": "tovars/baby19.jpg",
+            "price": "300.00",
+            "notPrice": "780.00"
+        }, {
+            "id": "1",
+            "title": "Babie Baby Girl's Booties",
+            "img": "tovars/baby43.jpg",
+            "price": "300.00",
+            "notPrice": "317.00"
+        }, {
+            "id": "2",
+            "title": "Baby's First  Doll Gift Set",
+            "img": "tovars/baby21.jpg",
+            "price": "200.00",
+            "notPrice": "",
+            "sale": true
+        }
+    ],
+    "sidePosts":[
+        {
+            "id": "0",
+            "title": "Bringing up children is a full time job!",
+            "img": "tovars/post3.jpg",
+            "date": "Oct 16, 2018"
+        }, {
+            "id": "1",
+            "title": "The different types of Baby carrier bags",
+            "img": "tovars/post2.jpg",
+            "date": "Oct 16, 2018"
+        }, {
+            "id": "2",
+            "title": "Learn while you grow toys",
+            "img": "tovars/post1.jpg",
+            "price": "200.00",
+            "date": "Oct 16, 2018"
+        }
+    ]
+}

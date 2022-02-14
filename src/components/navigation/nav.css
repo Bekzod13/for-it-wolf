@@ -1,0 +1,215 @@
+/* top navbar styles */
+.nav-top-bg{
+    width: 100%;
+    height: 40px;
+    background: var(--white);
+}
+.nav-top{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-top-left,
+.nav-top-right{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.nav-top-left a,
+.nav-top-right a{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: var(--gray);
+    margin-right: 20px;
+}
+.nav-top-right a{
+    margin-right: 0;
+    margin-left: 20px;
+}
+.nav-top-left a span,
+.nav-top-right a span{
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 7px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.money{
+    margin-left: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+.active-money{
+    display: flex;
+    align-items: center;
+    color: var(--gray);
+    font-size: 15px;
+    font-weight: 500;
+}
+.active-money span{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.money-course{
+    position: absolute;
+    top: 100%;
+    left: -60%;
+    display: none;
+    background: var(--air);
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.money-course::after{
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: 40%;
+    transform: rotate(-45deg);
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background: var(--air);
+    border-top-right-radius: 5px;
+}
+.money-course p:hover{
+    color: var(--red);
+    cursor: pointer;
+}
+.money:hover .money-course{
+    display: block;
+}
+/* top navbar styles end */
+
+/*  navbar styles */
+.nav-bg{
+    background: var(--air);
+    height: 100px;
+}
+.nav-main{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-search-box{
+    width: 600px;
+    height: 50px;
+    display: flex;
+    background: var(--white);
+}
+.nav-drop-box{
+    width: 200px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.active-nav-category{
+    width: 100%;
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    color: var(--gray);
+    font-size: 15px;
+    font-weight: 500;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.nav-categories{
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    padding: 20px 20px;
+    background: var(--blue);
+}
+.nav-categories p{
+    color: var(--white);
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.nav-drop-box:hover .nav-categories{
+    display: block;
+}
+.nav-input{
+    width: calc(100% - 265px);
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.nav-input input{
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+}
+.nav-search-btn{
+    height: 100%;
+    width: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--red);
+    font-size: 24px;
+    color: var(--white);
+    cursor: pointer;
+}
+.nav-main-right{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.nav-right-link{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background: var(--white);
+    margin-left: 20px;
+    padding: 0 15px;
+    font-size: 24px;
+    color: var(--gray);
+}
+.nav-cart{
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.nav-cart-count-item{
+    margin: 0 10px;
+    font-size: 16px;
+    color: var(--white);
+    background: var(--red);
+    height: 25px;
+    padding: 0 8px;
+}
+.nav-cart-count-money{
+    font-size: 16px;
+    color: var(--red);
+}
+/*  navbar styles end */
+/* navbar bottom */
+.nav-bottom{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--white);
+}
+.nav-bottom-link{
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: var(--gray);
+    margin: 0 10px;
+}
+
+/* navbar bottom end */

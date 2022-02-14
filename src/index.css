@@ -1,0 +1,37 @@
+/* font google  poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  background-image: url(./images/color_body_bg_image.jpg);
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+:root{
+  --air: #C8E9F2;
+  --white: #fff;
+  --red: #EF7B84;
+  --gray: #665950;
+  --blue: #00D4C5;
+  --pink: #ffeaf3;
+  --shadow: #ccc;
+  --d-bg: #f4f4f4;
+}
+.container{
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.home{
+  background: var(--white);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
